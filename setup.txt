@@ -1,0 +1,2 @@
+1. run command 'npm init -y'
+2. run command 'npm install --save selenium-webdriver chromedriver geckodriver'
