@@ -1,2 +1,6 @@
-1. run command 'npm init -y'
-2. run command 'npm install --save selenium-webdriver chromedriver geckodriver'
+1. Install NodeJS
+2. Open SELENIUMWEBDRIVER folder in VS code 
+3. Open terminal in VS Code 
+4. run command "npm update"
+5. Provide username and password in amazon.js script 
+6. Run code  

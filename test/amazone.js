@@ -12,9 +12,9 @@ async function test_case(){
 
     // Login to account
     await driver.findElement(By.id('nav-link-accountList')).click();
-    await driver.findElement(By.name('email')).sendKeys('pallavijoshi2499@gmail.com')
+    await driver.findElement(By.name('email')).sendKeys('************************')
     await driver.findElement(By.css("input[Id='continue']")).click();
-    await driver.findElement(By.id('ap_password')).sendKeys("Qwerty@1234");
+    await driver.findElement(By.id('ap_password')).sendKeys("***************");
     await driver.findElement(By.css("input[Id='signInSubmit']")).click();
 
     // Search Item
